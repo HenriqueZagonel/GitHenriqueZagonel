@@ -1,5 +1,7 @@
 ## Bem vindo(a) ao!meu perfil  
-![WhatsApp Image 2022-09-13 at 08 30 42](https://user-images.githubusercontent.com/106125331/190248287-b983554e-5f27-456b-b989-3ec57ef7ac3e.png
+
+
+![WhatsApp Image 2022-09-14 at 16 46 33](https://user-images.githubusercontent.com/106125331/190396511-06eb1ffe-c54d-48e8-a5fe-ba92037abcb0.jpeg)
 
 
 Olá eu sou Henrique Zagonel Pereira, aluno do curso Staart
