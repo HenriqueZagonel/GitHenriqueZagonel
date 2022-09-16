@@ -37,3 +37,17 @@ Olá eu sou Henrique Zagonel Pereira, aluno do curso Staart
 -Git Hub:HenriqueZagonel
 
 -twitter:@henriquezagonel
+
+
+# Projetos
+![preview](https://user-images.githubusercontent.com/106125331/190639342-723aab2d-e834-4fa8-aa76-1570aac8ea06.png)
+
+## NLW eSports
+Esse projeto foi construido na semana do Next Level Week, na trilha explorer.
+
+### Tecnologias
+-HTML.
+-CSS.
+-GitHub.
+
+[clique aqui para acessar o projeto](https://henriquezagonel.github.io/nlw/)
