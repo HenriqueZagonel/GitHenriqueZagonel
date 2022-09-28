@@ -4,29 +4,26 @@
 ![WhatsApp Image 2022-09-14 at 16 46 33](https://user-images.githubusercontent.com/106125331/190396511-06eb1ffe-c54d-48e8-a5fe-ba92037abcb0.jpeg)
 
 
-Olá eu sou Henrique Zagonel Pereira, aluno do curso Staart
+Olá eu sou Henrique Zagonel Pereira, estudante de Engenharia de Software.
+Estou em transição de carreira, é em busca da primeira vaga na área.
+
+
+## Atualmente estudando
+
+-C.
+
+-React.
+
+-Java Script e Typescript.
+
 
 ## Meus hobbies
 
 -Ler.
 
--Jogar League of Legends.
+-Fortinite.
 
--Fortinite
-
--Fá de Formula 1,
-
--Harry Potter.
-
-
-
-## Atualmente estudando
-
-
-
--React.
-
--Java Script e Typescript.
+-Fá de Formula 1.
 
 
 ## Meus contatos
@@ -36,7 +33,7 @@ Olá eu sou Henrique Zagonel Pereira, aluno do curso Staart
 
 -Git Hub:HenriqueZagonel
 
--twitter:@henriquezagonel
+
 
 
 # Projetos
